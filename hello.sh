@@ -1,2 +1,3 @@
 ls
 whoami
+hostname
