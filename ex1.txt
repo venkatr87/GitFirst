@@ -1,1 +1,2 @@
 Edit this one
+auto trigger
